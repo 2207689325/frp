@@ -12,7 +12,7 @@ exit
 :windows
 @echo off
 set path=%SystemRoot%\system32;%path%
-title frpÆô¶¯½Å±¾ ×÷Õß£º¡î‰ô»ÃŸ“›ï¡î QQÈº:114888319  2019Äê4ÔÂ25ÈÕ 
+title frppcè„šæœ¬  é»„ç»´ä¿®æ”¹ç‰ˆ 
 COLOR 02
 cls
 %~d0
